@@ -1,0 +1,11 @@
+/Users/mo/workspace/csharp/intro/bin/Debug/netcoreapp2.2/intro.deps.json
+/Users/mo/workspace/csharp/intro/bin/Debug/netcoreapp2.2/intro.runtimeconfig.json
+/Users/mo/workspace/csharp/intro/bin/Debug/netcoreapp2.2/intro.runtimeconfig.dev.json
+/Users/mo/workspace/csharp/intro/bin/Debug/netcoreapp2.2/intro.dll
+/Users/mo/workspace/csharp/intro/bin/Debug/netcoreapp2.2/intro.pdb
+/Users/mo/workspace/csharp/intro/obj/Debug/netcoreapp2.2/intro.csprojAssemblyReference.cache
+/Users/mo/workspace/csharp/intro/obj/Debug/netcoreapp2.2/intro.csproj.CoreCompileInputs.cache
+/Users/mo/workspace/csharp/intro/obj/Debug/netcoreapp2.2/intro.AssemblyInfoInputs.cache
+/Users/mo/workspace/csharp/intro/obj/Debug/netcoreapp2.2/intro.AssemblyInfo.cs
+/Users/mo/workspace/csharp/intro/obj/Debug/netcoreapp2.2/intro.dll
+/Users/mo/workspace/csharp/intro/obj/Debug/netcoreapp2.2/intro.pdb
